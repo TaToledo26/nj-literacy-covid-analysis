@@ -81,13 +81,6 @@ Produces figures saved to output/figures/:
 Produces three heat maps showing student ELA proficiency across the state. 
 
 
-
-Figure 1: ELA proficiency trends by DFG tier, 2017–2024, with COVID gap shaded
-Figure 2: County unemployment rates during COVID spike (2019–2022) for highest and lowest DFG counties
-Figure 3: Recovery gap (2019 baseline vs. 2024 actual) by DFG tier
-Figure 4: Current proficiency vs. NJ's 80% goal by 2030, by DFG tier, showing which tiers are on track
-
-
 # Results
 
 
