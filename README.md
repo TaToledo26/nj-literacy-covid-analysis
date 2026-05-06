@@ -64,7 +64,7 @@ Step 3 — Download the raw data
 
 Step 4 — Run the scripts in order
 
-Each script must be run in order. Script 01 produces the cleaned CSVs that Scripts 02 and 03 depend on.
+Each script must be run in order. Script 1 produces the cleaned CSVs that Scripts 2, 3, and 4 depend on.
 
 # Script Descriptions
 
